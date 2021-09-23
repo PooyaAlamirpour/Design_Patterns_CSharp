@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\FactoryMethod\\FactoryMethod.csproj",
+      "projectUniqueName": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Creational\\FactoryMethod\\FactoryMethod.csproj",
       "projectName": "FactoryMethod",
-      "projectPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\FactoryMethod\\FactoryMethod.csproj",
+      "projectPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Creational\\FactoryMethod\\FactoryMethod.csproj",
       "packagesPath": "C:\\Users\\Pooya\\.nuget\\packages\\",
-      "outputPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\FactoryMethod\\obj\\",
+      "outputPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Creational\\FactoryMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

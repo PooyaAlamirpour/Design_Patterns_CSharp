@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Creational\\AbstractFactory\\AbstractFactory.csproj",
       "projectName": "AbstractFactory",
-      "projectPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\AbstractFactory\\AbstractFactory.csproj",
+      "projectPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Creational\\AbstractFactory\\AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\Pooya\\.nuget\\packages\\",
-      "outputPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\AbstractFactory\\obj\\",
+      "outputPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Creational\\AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

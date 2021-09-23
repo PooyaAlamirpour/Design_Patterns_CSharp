@@ -1,0 +1,16 @@
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\bin\Debug\net5.0\Builder.exe
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\bin\Debug\net5.0\Builder.deps.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\bin\Debug\net5.0\Builder.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\bin\Debug\net5.0\ref\Builder.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\bin\Debug\net5.0\Builder.pdb
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\obj\Debug\net5.0\Builder.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\obj\Debug\net5.0\ref\Builder.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\obj\Debug\net5.0\Builder.pdb
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Creational\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
