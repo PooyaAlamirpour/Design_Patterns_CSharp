@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleFactory
 {
-    public enum BrandType
+    public enum BrandsType
     {
         Samsung,
         Xiaomi

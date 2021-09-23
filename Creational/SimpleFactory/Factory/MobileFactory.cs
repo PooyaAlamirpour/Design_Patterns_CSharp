@@ -10,10 +10,10 @@ namespace SimpleFactory
 {
     public class MobileFactory
     {
-        public static IMobile CreateMobile(BrandType brandType) => brandType switch
+        public static IMobile CreateMobile(BrandsType brandType) => brandType switch
         {
-            BrandType.Samsung => new Samsung(),
-            BrandType.Xiaomi => new Xiaomi(),
+            BrandsType.Samsung => new Samsung(),
+            BrandsType.Xiaomi => new Xiaomi(),
             _ => throw new Exception("Invalid brand type.")
         };
     }

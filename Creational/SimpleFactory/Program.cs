@@ -12,7 +12,7 @@ namespace SimpleFactory
             // Enhances code maintainability
             // Code adheres to SOLID principle
 
-            IMobile mobile = MobileFactory.CreateMobile(BrandType.Samsung);
+            IMobile mobile = MobileFactory.CreateMobile(BrandsType.Samsung);
             mobile.GetMobile();
         }
     }
