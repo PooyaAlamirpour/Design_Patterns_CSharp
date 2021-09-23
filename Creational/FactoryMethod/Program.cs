@@ -17,6 +17,8 @@ namespace FactoryMethod
             IMobileFactory mobileFactory = new XiaomiFactory();
             IMobile mobile = mobileFactory.GetMobile(ModelType.RedmiPro);
             mobile.GetMobile();
+			
+			Console.ReadKey();
         }
     }
 }
