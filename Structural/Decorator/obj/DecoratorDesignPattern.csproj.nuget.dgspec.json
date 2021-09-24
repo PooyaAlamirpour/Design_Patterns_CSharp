@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Structural\\StructuralPatterns\\Decorator\\DecoratorDesignPattern.csproj": {}
+    "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Structural\\Decorator\\DecoratorDesignPattern.csproj": {}
   },
   "projects": {
-    "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Structural\\StructuralPatterns\\Decorator\\DecoratorDesignPattern.csproj": {
+    "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Structural\\Decorator\\DecoratorDesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Structural\\StructuralPatterns\\Decorator\\DecoratorDesignPattern.csproj",
+        "projectUniqueName": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Structural\\Decorator\\DecoratorDesignPattern.csproj",
         "projectName": "DecoratorDesignPattern",
-        "projectPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Structural\\StructuralPatterns\\Decorator\\DecoratorDesignPattern.csproj",
+        "projectPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Structural\\Decorator\\DecoratorDesignPattern.csproj",
         "packagesPath": "C:\\Users\\Pooya\\.nuget\\packages\\",
-        "outputPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Structural\\StructuralPatterns\\Decorator\\obj\\",
+        "outputPath": "D:\\Partion E\\Improving Software Engineering\\Essentials(Telegram Channel)\\Design Patterns\\Mine\\SimpleFactory\\Structural\\Decorator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

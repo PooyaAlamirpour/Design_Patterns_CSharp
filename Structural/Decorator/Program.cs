@@ -1,6 +1,7 @@
 ﻿using DecoratorDesignPattern.ConcreteComponents;
 using DecoratorDesignPattern.ConcreteDecorators;
 using System;
+using System.Collections.Generic;
 
 namespace DecoratorDesignPattern
 {
@@ -9,7 +10,7 @@ namespace DecoratorDesignPattern
         static void Main(string[] args)
         {
             // The Decorator is a design pattern which is used for attaching additional responsibilities to an object dynamically.
-            
+
             ConcreteComponent component = new ConcreteComponent();
 
             ConcreteDecoratorA oncreteDecoratorA = new ConcreteDecoratorA();
