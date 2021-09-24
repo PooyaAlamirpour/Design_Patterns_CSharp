@@ -1,0 +1,16 @@
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\bin\Debug\net5.0\DecoratorDesignPattern.exe
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\bin\Debug\net5.0\DecoratorDesignPattern.deps.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\bin\Debug\net5.0\DecoratorDesignPattern.runtimeconfig.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\bin\Debug\net5.0\DecoratorDesignPattern.runtimeconfig.dev.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\bin\Debug\net5.0\DecoratorDesignPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\bin\Debug\net5.0\ref\DecoratorDesignPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\bin\Debug\net5.0\DecoratorDesignPattern.pdb
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\obj\Debug\net5.0\DecoratorDesignPattern.csproj.AssemblyReference.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\obj\Debug\net5.0\DecoratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\obj\Debug\net5.0\DecoratorDesignPattern.AssemblyInfoInputs.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\obj\Debug\net5.0\DecoratorDesignPattern.AssemblyInfo.cs
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\obj\Debug\net5.0\DecoratorDesignPattern.csproj.CoreCompileInputs.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\obj\Debug\net5.0\DecoratorDesignPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\obj\Debug\net5.0\ref\DecoratorDesignPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\obj\Debug\net5.0\DecoratorDesignPattern.pdb
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Structural\StructuralPatterns\Decorator\obj\Debug\net5.0\DecoratorDesignPattern.genruntimeconfig.cache
