@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorDesignPattern", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{465C6F75-42A4-4837-AC9D-5BD28ABBD33D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{270ECA00-2BC7-43B8-877D-DBB8BF5B546C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{465C6F75-42A4-4837-AC9D-5BD28ABBD33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{465C6F75-42A4-4837-AC9D-5BD28ABBD33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{465C6F75-42A4-4837-AC9D-5BD28ABBD33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270ECA00-2BC7-43B8-877D-DBB8BF5B546C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270ECA00-2BC7-43B8-877D-DBB8BF5B546C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270ECA00-2BC7-43B8-877D-DBB8BF5B546C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270ECA00-2BC7-43B8-877D-DBB8BF5B546C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
