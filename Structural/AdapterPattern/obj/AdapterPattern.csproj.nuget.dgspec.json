@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "net451": {
+            "targetAlias": "net451",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "net451": {
+          "targetAlias": "net451",
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       },
