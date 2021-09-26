@@ -1,0 +1,16 @@
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.exe
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.deps.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.dev.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\bin\Debug\net5.0\ref\StrategyPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.pdb
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.csproj.AssemblyReference.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfoInputs.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfo.cs
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\obj\Debug\net5.0\ref\StrategyPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.pdb
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.genruntimeconfig.cache
