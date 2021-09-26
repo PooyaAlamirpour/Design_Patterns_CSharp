@@ -1,0 +1,16 @@
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\bin\Debug\net5.0\StatePattern.exe
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\bin\Debug\net5.0\StatePattern.deps.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\bin\Debug\net5.0\StatePattern.runtimeconfig.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\bin\Debug\net5.0\StatePattern.runtimeconfig.dev.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\bin\Debug\net5.0\StatePattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\bin\Debug\net5.0\ref\StatePattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\bin\Debug\net5.0\StatePattern.pdb
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\obj\Debug\net5.0\StatePattern.csproj.AssemblyReference.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\obj\Debug\net5.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\obj\Debug\net5.0\StatePattern.AssemblyInfoInputs.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\obj\Debug\net5.0\StatePattern.AssemblyInfo.cs
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\obj\Debug\net5.0\StatePattern.csproj.CoreCompileInputs.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\obj\Debug\net5.0\StatePattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\obj\Debug\net5.0\ref\StatePattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\obj\Debug\net5.0\StatePattern.pdb
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\StatePattern\obj\Debug\net5.0\StatePattern.genruntimeconfig.cache
