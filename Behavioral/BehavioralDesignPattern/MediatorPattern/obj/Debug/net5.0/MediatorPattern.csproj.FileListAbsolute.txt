@@ -1,0 +1,16 @@
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\bin\Debug\net5.0\MediatorPattern.exe
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\bin\Debug\net5.0\MediatorPattern.deps.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\bin\Debug\net5.0\MediatorPattern.runtimeconfig.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\bin\Debug\net5.0\MediatorPattern.runtimeconfig.dev.json
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\bin\Debug\net5.0\MediatorPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\bin\Debug\net5.0\ref\MediatorPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\bin\Debug\net5.0\MediatorPattern.pdb
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\obj\Debug\net5.0\MediatorPattern.csproj.AssemblyReference.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\obj\Debug\net5.0\MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\obj\Debug\net5.0\MediatorPattern.AssemblyInfoInputs.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\obj\Debug\net5.0\MediatorPattern.AssemblyInfo.cs
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\obj\Debug\net5.0\MediatorPattern.csproj.CoreCompileInputs.cache
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\obj\Debug\net5.0\MediatorPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\obj\Debug\net5.0\ref\MediatorPattern.dll
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\obj\Debug\net5.0\MediatorPattern.pdb
+D:\Partion E\Improving Software Engineering\Essentials(Telegram Channel)\Design Patterns\Mine\SimpleFactory\Behavioral\BehavioralDesignPattern\MediatorPattern\obj\Debug\net5.0\MediatorPattern.genruntimeconfig.cache
